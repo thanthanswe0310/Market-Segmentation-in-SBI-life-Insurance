@@ -53,10 +53,3 @@ If using anaconda ->
  * matplotlib:       -<code> pip install matplotlib </code>
  * seaborn:          -<code> pip install seaborn </code>
  * jupyter notebook: -<code> pip install jupyter </code>
-
- ### Troubleshoot
-Any issues??? Feel free to ask.[Linkedin](https://www.linkedin.com/in/sidharth178/)
- 
-If you find this repo useful,don't forget to give a ⭐ 
-
-Thanks! ❤️
